@@ -5,6 +5,7 @@ output: html_notebook
 
 Primer proyecto par usar el control de cambio
 ```{r}
-
+# Inicio códigio
+x<-23
 ```
 
